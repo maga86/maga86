@@ -2,7 +2,7 @@
 
 ![](https://www.cfainstitute.org/-/media/images/hero/a-data-scientist-at-work-providing-analytics-and-insights-to-investment-professionals2.jpg)
 
-###🚀  About Me
+### 🚀  About Me
 
 - I'm a Data Scientist and a Data Analyst.
 
@@ -10,7 +10,7 @@
 
 - I hope you enjoy my portfolio!
 
-🛠 Skills
+### 🛠 Skills
 - Python
 - Machine Learning
 - Power Bi
